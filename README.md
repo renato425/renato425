@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Renato!!!!!
 
-Sim, eu tenho 15 anos. Programo desde os meus 16 anos. Tenho conhecimento em **NodeJS** (BackEND!)
+Sim, eu tenho 16 anos. Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
 
 * Firebase
 * Ejs
