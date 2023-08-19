@@ -1,12 +1,13 @@
 # Olá! 👋 Sou o Renato!!!!!
 
-Sim, eu tenho 15 anos. Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
+Sim, eu tenho 15 anos. Programo desde os meus 16 anos. Tenho conhecimento em **NodeJS** (BackEND!)
 
 * Firebase
 * Ejs
 * Express
 * Electron
 * NodeJS
+* Visual Basic
 
 # 🧨 Como comecei!
 Sei que alguns podem me zuar, mas eu comecei com um vídeo do Pedro Ricardo ensinando a fazer bots! Hoje, me consideram um dos melhores criadores de bots do Discord! Com bots vendidos e feitos! (Isabela, Ground, Discord Backups)
