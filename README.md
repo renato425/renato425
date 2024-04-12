@@ -1,4 +1,6 @@
 # Olá! 👋 Sou o Renato!!!!!
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/renatiin)
+
 
 Sim, eu tenho 17 anos (31/01/2007). Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
 
