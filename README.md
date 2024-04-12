@@ -12,7 +12,7 @@ Sim, eu tenho 17 anos (31/01/2007). Programo desde os meus 12 anos. Tenho conhec
 * Visual Basic
 
 # 🧨 Como comecei!
-Sei que alguns podem me zuar, mas eu comecei com um vídeo do Pedro Ricardo ensinando a fazer bots! Hoje, eu definitivamente sou um dos criadores de bots para o Discord! Com alguns vendidos feitos! (Isabela, Ground, Discord Backups, Saint Seiya Bot)
+Sei que alguns podem me zuar, mas eu comecei com um vídeo do Pedro Ricardo ensinando a fazer bots! Hoje, eu definitivamente sou um dos criadores de bots para o Discord! Com alguns vendidos e feitos! (Isabela, Ground, Discord Backups, Saint Seiya Bot)
 
 # 💫 Meus projetos!
 Tenho alguns projetos que considero como meus ""melhores""
