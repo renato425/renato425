@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Renato!!!!!
 
-Sim, eu tenho 16 anos. Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
+Sim, eu tenho 17 anos (31/01/2007). Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
 
 * Firebase
 * Ejs
@@ -10,7 +10,7 @@ Sim, eu tenho 16 anos. Programo desde os meus 12 anos. Tenho conhecimento em **N
 * Visual Basic
 
 # 🧨 Como comecei!
-Sei que alguns podem me zuar, mas eu comecei com um vídeo do Pedro Ricardo ensinando a fazer bots! Hoje, me consideram um dos melhores criadores de bots do Discord! Com bots vendidos e feitos! (Isabela, Ground, Discord Backups)
+Sei que alguns podem me zuar, mas eu comecei com um vídeo do Pedro Ricardo ensinando a fazer bots! Hoje, eu definitivamente sou um dos criadores de bots para o Discord! Com alguns vendidos feitos! (Isabela, Ground, Discord Backups, Saint Seiya Bot)
 
 # 💫 Meus projetos!
 Tenho alguns projetos que considero como meus ""melhores""
@@ -21,7 +21,7 @@ Tenho alguns projetos que considero como meus ""melhores""
 
 # 🤔 Curiosidades sobre mim
 * 🏡 Moro em Fortaleza-CE
-* 👦 Tenho 16 anos!
+* 👦 Tenho 17 anos!
 * 👨‍💻 Comecei a programar com 12 anos!
 * 👨‍👩‍👦 HéteroSexual! (Ele/Dele)
 
