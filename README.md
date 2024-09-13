@@ -16,7 +16,7 @@ Sei que alguns podem me zuar, mas eu comecei com um vídeo do Pedro Ricardo ensi
 
 # 💫 Meus projetos!
 Tenho alguns projetos que considero como meus ""melhores""
-* IsaDB2 - A nova maneira de salvar coisas! (projeto principal do meu repositório) [Link](https://github.com/renato425/isadb2)
+* IsaDB - Uma nova maneira de você controlar seus dados em seu projeto! (projeto principal do meu repositório) [Link](https://github.com/renato425/isadb)
 * Simple DB Json - O pacote JSON banco de dados! [Link](https://github.com/renato425/simple-db-json)
 * Tutanota - API que se conecta com o TutanotaMail! [Link](https://github.com/renato425/tutanota)
 * RandomImageApi - API de Imagens para o que você quiser! [Link](https://github.com/renato425/random-images-api)
