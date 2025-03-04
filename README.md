@@ -2,7 +2,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/renatiin)
 
 
-Sim, eu tenho 17 anos (31/01/2007). Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
+Sim, eu tenho 18 anos (31/01/2007). Programo desde os meus 12 anos. Tenho conhecimento em **NodeJS** (BackEND!)
 
 * Firebase
 * Ejs
@@ -23,7 +23,7 @@ Tenho alguns projetos que considero como meus ""melhores""
 
 # 🤔 Curiosidades sobre mim
 * 🏡 Moro em Fortaleza-CE
-* 👦 Tenho 17 anos!
+* 👦 Tenho 18 anos!
 * 👨‍💻 Comecei a programar com 12 anos!
 * 👨‍👩‍👦 HéteroSexual! (Ele/Dele)
 
